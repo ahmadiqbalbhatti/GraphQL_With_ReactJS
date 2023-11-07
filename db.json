@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "id": "123",
-      "firstName": "Bill",
-      "age": 20,
-      "companyId": "1"
-    },
-    {
       "id": "124",
       "firstName": "Hassan",
       "age": 22,
@@ -17,6 +11,18 @@
       "firstName": "Alex",
       "age": 40,
       "companyId": "2"
+    },
+    {
+      "id": "142",
+      "firstName": "GraphQL",
+      "age": 40,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Faris",
+      "age": 5,
+      "companyId": "1",
+      "id": "qVA9_Zo"
     }
   ],
   "companies": [
